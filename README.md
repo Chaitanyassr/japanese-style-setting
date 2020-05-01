@@ -16,3 +16,5 @@ thank you
 - Github - https://github.com/Chaitanyassr
 - My site - https://chaitanyassr.netlify.com/
 - Chinuon studio site(download my games) - https://sites.google.com/view/braveknightgame/home
+
+Note - Game cant be uploaded because of the game size but i will soon try to upload the whole stuff.
